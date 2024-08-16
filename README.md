@@ -1,5 +1,6 @@
 # VMA-vote-script
-代码连接：https://pastebin.com/AkmybNfC
+代码copy链接：https://pastebin.com/AkmybNfC
+demo链接：http://t.cn/A6Rv1pTw
 ## 使用说明
 1. 打开投票网址：https://www.mtv.com/vma/vote/
 2. 浏览器鼠标右键->检查/F12
